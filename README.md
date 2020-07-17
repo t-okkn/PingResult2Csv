@@ -1,0 +1,2 @@
+# PingResult2Csv
+様々なOSで取得したpingの結果テキストをcsvデータに変換します
